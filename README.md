@@ -4,7 +4,7 @@ This repository is meant to serve as a hub of my team and I's Global Game Jam pr
 ## Connection Lost (Global Game Jam 2018) - https://globalgamejam.org/2018/games/connection-lost
 ![Banner](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/banner_1_0.png)
 
-Wound up in a group of isolated islands, your mission is to collect the needed energy to make a connection with your home world. You will find it in hidden temples among the islands. But be careful! On your way you will have to fight the guardians of the sanctuaries. Good luck!
+You wake up on a group of isolated islands, your mission is to collect the needed energy to make a connection with your home world. You will find it in hidden temples among the islands. But be careful! On your way you will have to fight the guardians of the sanctuaries. Good luck!
 
 ## Galaxy Waves (Global Game Jam 2017) - https://globalgamejam.org/2017/games/galaxy-waves
 ![Banner](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/screen2_0.png)
